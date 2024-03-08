@@ -28,6 +28,7 @@
 	.image-box {
 		float: left;
 		width: 500px;
+		height: 250px;
 		border: solid 1px black;
 		margin-bottom: 10px;
 		margin-right: 10px;
