@@ -9,7 +9,7 @@
 
 	<div class="image-box">
 		<p>Image two</p>
-		<pre><code>&lt;NuxtImg width="300" src="nuxtImage.png" /&gt;</code></pre>
+		<pre><code>&lt;NuxtImg width="300" src="_ipx/nuxtImage.png" /&gt;</code></pre>
 		<NuxtImg width="300" src="nuxtImage.png" />
 	</div>
 
