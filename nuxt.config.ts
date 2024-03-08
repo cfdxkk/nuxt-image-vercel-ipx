@@ -6,6 +6,6 @@ export default defineNuxtConfig({
 	image: {
 		provider: 'ipx',
 		domains: ['i2.100024.xyz'],
-		dir: '/public'
+		dir: 'public/'
 	}
 })
